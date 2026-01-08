@@ -2,7 +2,14 @@
 
 **BiblioFilm** est une application de gestion de vidéothèque personnelle développée en Python avec Tkinter pour le projet d'évaluation du module I-319. Elle permet de lister vos films, de suivre ceux que vous avez vus et d'enregistrer vos critiques et notes détaillées.
 
+* **Auteurs** : Taveeporn Matta, Eyuel Worku.
 ---
+## Module I-319 
+* **Objectifs du projet** : Les objectifs ont été respectés dans le cadre du projet.
+    * Utilisation des gestionnaires de layout en pack, grid et place.
+    * Travail sur git.
+    * Fichier readme qui contient la description basique du projet, ainsi que toutes les informations nécessaires à le faire fonctionner.
+    * Respect des conventions
 
 ## ✨ Fonctionnalités
 
@@ -54,7 +61,7 @@ Sélectionnez un film et cliquez sur **Supprimer**. Une confirmation vous sera d
 
 ## 📚 Sources
 
-* **Aide au code, tutoriel, questions, rédaction du readme** : Google Gemini
+* **Aide au code, tutoriel, questions, aide rédaction du readme** : Google Gemini
 
 ## 📂 Structure des données (films.json)
 
