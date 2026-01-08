@@ -30,8 +30,12 @@ listbox_films = None
 
 def rafraichir_liste():
     listbox_films.delete(0, tk.END)
+    
+    # Tri de la liste
+    # On met les films vus (True) en premier
+    films.sort(key=lambda x: x.get("vu"), reverse=True)
+
     for f in films:
-        # Ajout visuel de l'état VU
         etat = "[X]" if f.get("vu") else "[ ]"
         titre = f["titre"]
         note = f" | {f['note']}/5" if f.get("note") else ""
