@@ -1,0 +1,107 @@
+[
+  {
+    "titre": "Interstellar",
+    "annee": "2014",
+    "vu": true,
+    "note": 5,
+    "avis": "Un film monumental. L’exploration spatiale sert de décor à une histoire très humaine sur le temps et les liens familiaux. La scène sur la planète où le temps passe différemment m’a retourné le cerveau, et la musique de Zimmer donne des frissons du début à la fin. C’est spectaculaire et émouvant à la fois, et ça reste longtemps en tête après le générique."
+  },
+  {
+    "titre": "The Dark Knight",
+    "annee": "2008",
+    "vu": true,
+    "note": 5,
+    "avis": "Le Joker de Heath Ledger est incroyable. Un polar tendu, sombre, avec un vrai sens des enjeux moraux."
+  },
+  {
+    "titre": "Parasite",
+    "annee": "2019",
+    "vu": true,
+    "note": 5,
+    "avis": "Brillant et imprévisible. Une satire sociale qui bascule sans prévenir et qui tient en haleine."
+  },
+  {
+    "titre": "La Haine",
+    "annee": "1995",
+    "vu": false,
+    "note": null,
+    "avis": null
+  },
+  {
+    "titre": "Whiplash",
+    "annee": "2014",
+    "vu": true,
+    "note": 4,
+    "avis": "Intense. Montage et son au cordeau. On sort épuisé mais bluffé."
+  },
+  {
+    "titre": "Inception",
+    "annee": "2010",
+    "vu": true,
+    "note": 4,
+    "avis": "Concept puissant et mise en scène ultra efficace. Quelques explications un peu lourdes parfois, mais l’ensemble reste un grand spectacle intelligent qui récompense les revisionnages."
+  },
+  {
+    "titre": "Le Voyage de Chihiro",
+    "annee": "2001",
+    "vu": false,
+    "note": null,
+    "avis": null
+  },
+  {
+    "titre": "The Godfather",
+    "annee": "1972",
+    "vu": true,
+    "note": 5,
+    "avis": "Classique absolu. Mise en scène maîtrisée, personnages inoubliables, ambiance hypnotique."
+  },
+  {
+    "titre": "Arrival",
+    "annee": "2016",
+    "vu": true,
+    "note": 4,
+    "avis": "Science-fiction intimiste avec une idée centrale magnifique sur le langage et le temps. Atmosphère envoutante."
+  },
+  {
+    "titre": "Mad Max: Fury Road",
+    "annee": "2015",
+    "vu": false,
+    "note": null,
+    "avis": null
+  },
+  {
+    "titre": "The Social Network",
+    "annee": "2010",
+    "vu": true,
+    "note": 4,
+    "avis": "Rythme parfait, dialogues tranchants. Un portrait acide de l’ambition et de l’ère numérique."
+  },
+  {
+    "titre": "Joker",
+    "annee": "2019",
+    "vu": true,
+    "note": 3,
+    "avis": "Très bonne performance de Phoenix, ambiance lourde et oppressante. Moins convaincu par certains appuis trop insistants."
+  },
+  {
+    "titre": "Titanic",
+    "annee": "1997",
+    "vu": false,
+    "note": null,
+    "avis": null
+  },
+  {
+    "titre": "Your Name",
+    "annee": "2016",
+    "vu": true,
+    "note": 4,
+    "avis": "Romance fantastique sensible, très belle musique et une émotion qui monte sans forcer. Joli mélange de mélancolie et d’espoir."
+  },
+  {
+    "titre": "Oldboy",
+    "annee": "2003",
+    "vu": true,
+    "note": 5,
+    "avis": "Choc de mise en scène et de narration. Brutal mais d’une précision redoutable. Impossible à oublier."
+  }
+]
