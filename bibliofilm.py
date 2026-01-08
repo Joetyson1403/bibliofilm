@@ -1,3 +1,15 @@
+# =========================================================
+# Projet : Bibliofilm
+# Module : I-319
+# Description  : Gestionnaire de films avec interface graphique
+#
+# Auteurs :
+#   - Taveeporn Matta
+#   - Eyuel Worku
+# Classe : SI-CA1a
+# Date : 08.01.2026
+# =========================================================
+
 import json
 import os
 import tkinter as tk
