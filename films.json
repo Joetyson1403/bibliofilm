@@ -1,107 +1,352 @@
 [
   {
-    "titre": "Interstellar",
-    "annee": "2014",
+    "titre": "Le Seigneur des Anneaux : Le Retour du Roi",
+    "annee": "2003",
     "vu": true,
     "note": 5,
-    "avis": "Un film monumental. L’exploration spatiale sert de décor à une histoire très humaine sur le temps et les liens familiaux. La scène sur la planète où le temps passe différemment m’a retourné le cerveau, et la musique de Zimmer donne des frissons du début à la fin. C’est spectaculaire et émouvant à la fois, et ça reste longtemps en tête après le générique."
+    "avis": "Probablement la meilleure conclusion de trilogie de l'histoire du cinéma. Les batailles sont épiques, l'émotion est à son comble (la scène 'Pour Frodon' me donne des frissons à chaque fois). C'est long, certes, mais on ne voit pas le temps passer. Un chef-d'œuvre absolu qui mérite tous ses Oscars. La musique d'Howard Shore est légendaire."
   },
   {
-    "titre": "The Dark Knight",
-    "annee": "2008",
+    "titre": "Madame Web",
+    "annee": "2024",
     "vu": true,
-    "note": 5,
-    "avis": "Le Joker de Heath Ledger est incroyable. Un polar tendu, sombre, avec un vrai sens des enjeux moraux."
+    "note": 1,
+    "avis": "Une catastrophe industrielle. Le scénario n'a ni queue ni tête, les dialogues semblent écrits par une IA dépressive et la méchante est ridicule. Je ne parle même pas du montage qui donne mal à la tête. J'ai perdu 2 heures de ma vie que je ne récupérerai jamais. À fuir absolument, même pour rire."
   },
   {
     "titre": "Parasite",
     "annee": "2019",
     "vu": true,
     "note": 5,
-    "avis": "Brillant et imprévisible. Une satire sociale qui bascule sans prévenir et qui tient en haleine."
+    "avis": "Brillant, drôle, effrayant et socialement pertinent."
   },
   {
-    "titre": "Whiplash",
-    "annee": "2014",
+    "titre": "Dune : Deuxième Partie",
+    "annee": "2024",
     "vu": true,
-    "note": 4,
-    "avis": "Intense. Montage et son au cordeau. On sort épuisé mais bluffé."
+    "note": 5,
+    "avis": "Visuellement époustouflant. Denis Villeneuve a réussi l'impossible en adaptant ce livre. Le sound design fait trembler les murs. Timothée Chalamet est convaincant en leader messianique. Une expérience cinéma totale."
+  },
+  {
+    "titre": "Sharknado",
+    "annee": "2013",
+    "vu": true,
+    "note": 2,
+    "avis": "C'est tellement nul que ça en devient de l'art. Des requins dans une tornade ? Génie."
   },
   {
     "titre": "Inception",
     "annee": "2010",
     "vu": true,
-    "note": 4,
-    "avis": "Concept puissant et mise en scène ultra efficace. Quelques explications un peu lourdes parfois, mais l’ensemble reste un grand spectacle intelligent qui récompense les revisionnages."
+    "note": 5,
+    "avis": "Le concept des rêves imbriqués est fascinant. Il faut le voir au moins deux fois pour saisir toutes les subtilités. La fin avec la toupie... tombe-t-elle ou non ? Le débat reste ouvert."
   },
   {
-    "titre": "The Godfather",
+    "titre": "Cats",
+    "annee": "2019",
+    "vu": true,
+    "note": 1,
+    "avis": "Mes yeux brûlent. Les effets spéciaux sont cauchemardesques."
+  },
+  {
+    "titre": "Pulp Fiction",
+    "annee": "1994",
+    "vu": true,
+    "note": 5,
+    "avis": "Les dialogues sont cultes. Tarantino au sommet de son art."
+  },
+  {
+    "titre": "Morbius",
+    "annee": "2022",
+    "vu": true,
+    "note": 1,
+    "avis": "It's Morbin time... ou pas. Scénario vide."
+  },
+  {
+    "titre": "Interstellar",
+    "annee": "2014",
+    "vu": true,
+    "note": 5,
+    "avis": "Une odyssée spatiale bouleversante. La relation père-fille transcende l'espace et le temps. La scène de l'amarrage avec la musique de Hans Zimmer est l'un des moments les plus intenses que j'ai vécu au cinéma. Scientifiquement intéressant (merci Kip Thorne) même si la fin part un peu dans le métaphysique. À voir sur le plus grand écran possible."
+  },
+  {
+    "titre": "Deadpool & Wolverine",
+    "annee": "2024",
+    "vu": true,
+    "note": 4,
+    "avis": "Du fan service pur et dur, mais qu'est-ce que c'est bon ! On rigole du début à la fin. L'alchimie entre Reynolds et Jackman est parfaite."
+  },
+  {
+    "titre": "Le Parrain",
     "annee": "1972",
     "vu": true,
     "note": 5,
-    "avis": "Classique absolu. Mise en scène maîtrisée, personnages inoubliables, ambiance hypnotique."
+    "avis": "Classique indémodable."
   },
   {
-    "titre": "Arrival",
+    "titre": "Dragonball Evolution",
+    "annee": "2009",
+    "vu": true,
+    "note": 1,
+    "avis": "Une insulte à l'œuvre originale. Tout est raté : le casting, l'histoire, les effets. Goku va au lycée ? Sérieusement ? À oublier très vite."
+  },
+  {
+    "titre": "La La Land",
     "annee": "2016",
     "vu": true,
     "note": 4,
-    "avis": "Science-fiction intimiste avec une idée centrale magnifique sur le langage et le temps. Atmosphère envoutante."
+    "avis": "Très beau visuellement, une belle histoire d'amour mélancolique. La musique reste en tête."
   },
   {
-    "titre": "The Social Network",
-    "annee": "2010",
-    "vu": true,
-    "note": 4,
-    "avis": "Rythme parfait, dialogues tranchants. Un portrait acide de l’ambition et de l’ère numérique."
-  },
-  {
-    "titre": "Joker",
-    "annee": "2019",
-    "vu": true,
-    "note": 3,
-    "avis": "Très bonne performance de Phoenix, ambiance lourde et oppressante. Moins convaincu par certains appuis trop insistants."
-  },
-  {
-    "titre": "Your Name",
-    "annee": "2016",
-    "vu": true,
-    "note": 4,
-    "avis": "Romance fantastique sensible, très belle musique et une émotion qui monte sans forcer. Joli mélange de mélancolie et d’espoir."
-  },
-  {
-    "titre": "Oldboy",
+    "titre": "The Room",
     "annee": "2003",
     "vu": true,
-    "note": 5,
-    "avis": "Choc de mise en scène et de narration. Brutal mais d’une précision redoutable. Impossible à oublier."
+    "note": 2,
+    "avis": "Oh hi Mark. Le meilleur pire film du monde."
   },
   {
-    "titre": "Titanic",
-    "annee": "1997",
+    "titre": "Forrest Gump",
+    "annee": "1994",
+    "vu": true,
+    "note": 5,
+    "avis": "La vie, c'est comme une boîte de chocolats."
+  },
+  {
+    "titre": "Bienvenue chez les Ch'tis",
+    "annee": "2008",
+    "vu": true,
+    "note": 3,
+    "avis": "Sympa, on rigole bien, mais ça a un peu vieilli."
+  },
+  {
+    "titre": "Blade Runner 2049",
+    "annee": "2017",
+    "vu": true,
+    "note": 5,
+    "avis": "Lent, contemplatif, magnifique. La photographie est à tomber par terre. Ce film pose de vraies questions sur ce qui définit l'humanité. Ryan Gosling est parfait dans ce rôle mutique. C'est une suite qui respecte l'original tout en proposant sa propre identité visuelle et sonore."
+  },
+  {
+    "titre": "Uncharted",
+    "annee": "2022",
+    "vu": true,
+    "note": 3,
+    "avis": "Divertissant mais oubliable. Tom Holland ne fait pas vraiment Nathan Drake."
+  },
+  {
+    "titre": "Les Evadés",
+    "annee": "1994",
+    "vu": true,
+    "note": 5,
+    "avis": "Une leçon d'espoir et d'amitié."
+  },
+  {
+    "titre": "Twilight, chapitre I",
+    "annee": "2008",
+    "vu": true,
+    "note": 2,
+    "avis": "C'est niais, ça brille au soleil, mais c'est mon plaisir coupable."
+  },
+  {
+    "titre": "Mission: Impossible - Dead Reckoning",
+    "annee": "2023",
     "vu": true,
     "note": 4,
-    "avis": "Cool"
+    "avis": "Tom Cruise court, saute, conduit, et on adore ça. Scènes d'action impeccables."
+  },
+  {
+    "titre": "Astérix et Obélix : Mission Cléopâtre",
+    "annee": "2002",
+    "vu": true,
+    "note": 5,
+    "avis": "Le meilleur film français de comédie. Les répliques sont cultes. Jamel est hilarant."
+  },
+  {
+    "titre": "Green Lantern",
+    "annee": "2011",
+    "vu": true,
+    "note": 2,
+    "avis": "Le costume en CGI est horrible."
+  },
+  {
+    "titre": "Oppenheimer",
+    "annee": "2023",
+    "vu": true,
+    "note": 5,
+    "avis": "Un biopic intense de 3h qui passe comme une lettre à la poste. Cillian Murphy est habité par le rôle. La réalisation joue avec le son et le silence de manière magistrale. La scène de l'essai Trinity est angoissante à souhait."
+  },
+  {
+    "titre": "Jurassic Park",
+    "annee": "1993",
+    "vu": true,
+    "note": 5,
+    "avis": "Les dinosaures ont l'air plus vrais que dans les films d'aujourd'hui."
+  },
+  {
+    "titre": "La Haine",
+    "annee": "1995",
+    "vu": true,
+    "note": 5,
+    "avis": "Jusqu'ici tout va bien... Un film choc en noir et blanc qui n'a pas pris une ride."
+  },
+  {
+    "titre": "Suicide Squad",
+    "annee": "2016",
+    "vu": true,
+    "note": 2,
+    "avis": "Montage chaotique, méchant ridicule. Seule Margot Robbie sauve les meubles."
+  },
+  {
+    "titre": "Avengers: Endgame",
+    "annee": "2019",
+    "vu": true,
+    "note": 4,
+    "avis": "La fin d'une ère. Grandiose."
   },
   {
     "titre": "Le Voyage de Chihiro",
     "annee": "2001",
     "vu": true,
-    "note": null,
-    "avis": null
+    "note": 5,
+    "avis": "Poétique et onirique. Miyazaki au sommet."
   },
   {
-    "titre": "La Haine",
-    "annee": "1995",
+    "titre": "Rebel Moon - Partie 1",
+    "annee": "2023",
+    "vu": true,
+    "note": 2,
+    "avis": "Beaucoup de ralentis pour pas grand chose. On dirait une cinématique de jeu vidéo sans âme."
+  },
+  {
+    "titre": "Fight Club",
+    "annee": "1999",
+    "vu": true,
+    "note": 5,
+    "avis": "Je ne peux pas en parler, c'est la première règle."
+  },
+  {
+    "titre": "Ratatouille",
+    "annee": "2007",
+    "vu": true,
+    "note": 5,
+    "avis": "Mon Pixar préféré. Une ode à la gastronomie française."
+  },
+  {
+    "titre": "Venom: The Last Dance",
+    "annee": "2024",
+    "vu": true,
+    "note": 2,
+    "avis": "Toujours aussi bête, mais Tom Hardy a l'air de s'amuser."
+  },
+  {
+    "titre": "Drive",
+    "annee": "2011",
+    "vu": true,
+    "note": 4,
+    "avis": "Bande son incroyable, ambiance néon noir."
+  },
+  {
+    "titre": "Retour vers le Futur",
+    "annee": "1985",
+    "vu": true,
+    "note": 5,
+    "avis": "Nom de Zeus ! Le film d'aventure parfait."
+  },
+  {
+    "titre": "Megamind",
+    "annee": "2010",
+    "vu": true,
+    "note": 4,
+    "avis": "Sous-côté à sa sortie, c'est devenu un classique des mèmes."
+  },
+  {
+    "titre": "Zootopie 2",
+    "annee": "2025",
+    "vu": true,
+    "note": 3,
+    "avis": ""
+  },
+  {
+    "titre": "Nosferatu",
+    "annee": "2024",
+    "vu": true,
+    "note": 4,
+    "avis": "Cool"
+  },
+  {
+    "titre": "Mickey 17",
+    "annee": "2025",
     "vu": false,
     "note": null,
-    "avis": null
+    "avis": ""
   },
   {
-    "titre": "Mad Max: Fury Road",
-    "annee": "2015",
-    "vu": true,
+    "titre": "Avatar 3",
+    "annee": "2025",
+    "vu": false,
     "note": null,
-    "avis": null
+    "avis": ""
+  },
+  {
+    "titre": "Gladiator II",
+    "annee": "2024",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Spider-Man: Beyond the Spider-Verse",
+    "annee": "TBA",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Superman (James Gunn)",
+    "annee": "2025",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Joker : Folie à Deux",
+    "annee": "2024",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Ballerina",
+    "annee": "2025",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "F1",
+    "annee": "2025",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Minecraft, le film",
+    "annee": "2025",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Fantastic Four",
+    "annee": "2025",
+    "vu": false,
+    "note": null,
+    "avis": ""
+  },
+  {
+    "titre": "Transformers 8",
+    "annee": "TBA",
+    "vu": false,
+    "note": null,
+    "avis": ""
   }
 ]
