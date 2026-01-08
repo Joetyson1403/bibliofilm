@@ -111,6 +111,20 @@ def lancer_interface():
     scroll.pack(side="right", fill="y")
     listbox_films.config(yscrollcommand=scroll.set)
 
+    frame_btn = tk.Frame(fenetre)
+    frame_btn.pack(pady=10)
+    tk.Button(frame_btn, text="Ajouter", command=ouvrir_fenetre_ajouter).pack(side="left", padx=5)
+    tk.Button(frame_btn, text="Détails", command=action_details).pack(side="left", padx=5)
+    tk.Button(frame_btn, text="Noter/Avis", command=action_noter).pack(side="left", padx=5)
+    tk.Button(frame_btn, text="Supprimer", command=action_supprimer).pack(side="left", padx=5)
+
+    # Bouton Quitter avec PLACE
+    btn_quit = tk.Button(fenetre, text="X", bg="red", fg="white", command=fenetre.destroy)
+    btn_quit.place(relx=0.94, rely=0.02)
+
+    rafraichir_liste()
+    fenetre.mainloop()
+
     # Zone Boutons
     frame_btn = tk.Frame(fenetre)
     frame_btn.pack(pady=10)

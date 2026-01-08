@@ -21,13 +21,6 @@
     "avis": "Brillant et imprévisible. Une satire sociale qui bascule sans prévenir et qui tient en haleine."
   },
   {
-    "titre": "La Haine",
-    "annee": "1995",
-    "vu": false,
-    "note": null,
-    "avis": null
-  },
-  {
     "titre": "Whiplash",
     "annee": "2014",
     "vu": true,
@@ -40,13 +33,6 @@
     "vu": true,
     "note": 4,
     "avis": "Concept puissant et mise en scène ultra efficace. Quelques explications un peu lourdes parfois, mais l’ensemble reste un grand spectacle intelligent qui récompense les revisionnages."
-  },
-  {
-    "titre": "Le Voyage de Chihiro",
-    "annee": "2001",
-    "vu": false,
-    "note": null,
-    "avis": null
   },
   {
     "titre": "The Godfather",
@@ -63,13 +49,6 @@
     "avis": "Science-fiction intimiste avec une idée centrale magnifique sur le langage et le temps. Atmosphère envoutante."
   },
   {
-    "titre": "Mad Max: Fury Road",
-    "annee": "2015",
-    "vu": false,
-    "note": null,
-    "avis": null
-  },
-  {
     "titre": "The Social Network",
     "annee": "2010",
     "vu": true,
@@ -84,13 +63,6 @@
     "avis": "Très bonne performance de Phoenix, ambiance lourde et oppressante. Moins convaincu par certains appuis trop insistants."
   },
   {
-    "titre": "Titanic",
-    "annee": "1997",
-    "vu": false,
-    "note": null,
-    "avis": null
-  },
-  {
     "titre": "Your Name",
     "annee": "2016",
     "vu": true,
@@ -103,5 +75,33 @@
     "vu": true,
     "note": 5,
     "avis": "Choc de mise en scène et de narration. Brutal mais d’une précision redoutable. Impossible à oublier."
+  },
+  {
+    "titre": "Titanic",
+    "annee": "1997",
+    "vu": true,
+    "note": 4,
+    "avis": "Cool"
+  },
+  {
+    "titre": "Le Voyage de Chihiro",
+    "annee": "2001",
+    "vu": true,
+    "note": null,
+    "avis": null
+  },
+  {
+    "titre": "La Haine",
+    "annee": "1995",
+    "vu": false,
+    "note": null,
+    "avis": null
+  },
+  {
+    "titre": "Mad Max: Fury Road",
+    "annee": "2015",
+    "vu": true,
+    "note": null,
+    "avis": null
   }
 ]
